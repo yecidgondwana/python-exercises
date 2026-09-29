@@ -1,0 +1,4 @@
+# let the user enter two strings, and check whether the second string is contained in the first
+word1 = input('enter a word' )
+word2 = input('enter another word')
+print(word2 in word1)
